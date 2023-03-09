@@ -1,1 +1,1 @@
-vagrant task
+vagrant tasks
